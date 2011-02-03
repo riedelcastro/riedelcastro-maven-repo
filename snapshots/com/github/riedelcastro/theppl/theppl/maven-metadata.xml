@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.github.riedelcastro.theppl</groupId>
-  <artifactId>theppl-datasets</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>theppl</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
       <version>0.1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20110203075702</lastUpdated>
+    <lastUpdated>20110203075641</lastUpdated>
   </versioning>
 </metadata>
